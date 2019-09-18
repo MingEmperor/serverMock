@@ -1,2 +1,3 @@
-# serverMock
-这是一个本地mock数据的服务
+## 本地 mock 工具
+
+> readme
